@@ -1,21 +1,8 @@
-Unscramble app
-=================================
+Ejercicio 5
 
-Single player game app that displays scrambled words. To play the game, player has to make a
-word using all the letters in the displayed scrambled word.
-This code demonstrates the Android Architecture component- ViewModel and StateFlow.
+![image](https://github.com/user-attachments/assets/c7b3c2fc-a52f-4d5f-9567-27b4f48a567d)
 
+![image](https://github.com/user-attachments/assets/76d56e82-c728-4803-97e9-eaecf6e2b4f6)
 
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
+![image](https://github.com/user-attachments/assets/933a2e26-9747-4743-a4ab-6feef0746d66)
 
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
